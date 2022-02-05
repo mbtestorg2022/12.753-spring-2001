@@ -6,20 +6,201 @@ uid: 674dba63-4879-e533-53b9-e6dd0cb73991
 
 Each seminar features an invited speaker followed by a discussion moderated by a WHOI scientist. Moderators are encouraged to present synoptic material of their own relevant research.
 
-| SES # | SPEAKER(S) | TOPICS |
-| --- | --- | --- |
-| 1 | Dr. Neil Ribe /Dr. Peter Kelemen | Scenes in the Life of a Mantle Plume |
-| 2 | Dr. Bill White / Dr. Mark Kurz | Origin and Evolution of the Galapagos Plateau |
-| 3 | Dr. Guust Nolet / Dr. Aibing Li | Seismic Tomography of the Iceland Plume |
-| 4 | Dr. Jean Guy Schilling / Dr. Stan Hart | Basic Geochemical Aspects of Plume - Ridge Interactions |
-| 5 | Dr. Doug Wilson / Dr. Pablo Canales | Plate Motions and Spreading Ridge Evolution Near the Galapagos Hotspot |
-| 6 | Dr. David Bercovici / Dr. Greg Hirth | Dynamics of Plumes and Hotspots |
-| 7 | Dr. Garrett Ito / Dr. Jian Lin | Evolution and Dynamics of the Iceland Hotspot in the North Atlantic |
-| 8 | Dr. Peter Kelemen / Dr. Ken Sims | Mantle Heterogeneity in the North Atlantic |
-| 9 | Dr. Bill Menke / Dr. Rob Sohn | Magmatic Structure of Axial Volcano, Juan de Fuca Ridge |
-| 10 | Dr. Yang Shen / Dr. Bob Detrick | Iceland Plume: Blowing in the Wind? |
-| 11 | Dr. Mike Perfit / Dr. Ken Sims | Insights into Ridge-Hotspot Interaction on the Juan de Fuca Ridge: Geochemical Investigations of Axial Seamount and Adjacent Rift Zones |
-| 12 | Dr. Dennis Geist / Dr. Henry Dick | Plumes at Plate Boundaries (When Bad Things Happen to Good Plumes) |
-| 13 | Dr. Katrina Edwards / Dr. Susan Humphris | Chemolithoautotrophic Extremophiles and Biogeography of Vent Biota |
-| 14 | Dr. Jason Phipps-Morgan / Dr. Jack Whitehead | Origination Depth of Mantle Plumes |
-| &nbsp; | Field Trip to Yellowstone
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+SPEAKER(S)
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Neil Ribe /Dr. Peter Kelemen
+{{< tdclose >}}
+{{< tdopen >}}
+Scenes in the Life of a Mantle Plume
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Bill White / Dr. Mark Kurz
+{{< tdclose >}}
+{{< tdopen >}}
+Origin and Evolution of the Galapagos Plateau
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Guust Nolet / Dr. Aibing Li
+{{< tdclose >}}
+{{< tdopen >}}
+Seismic Tomography of the Iceland Plume
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Jean Guy Schilling / Dr. Stan Hart
+{{< tdclose >}}
+{{< tdopen >}}
+Basic Geochemical Aspects of Plume - Ridge Interactions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Doug Wilson / Dr. Pablo Canales
+{{< tdclose >}}
+{{< tdopen >}}
+Plate Motions and Spreading Ridge Evolution Near the Galapagos Hotspot
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. David Bercovici / Dr. Greg Hirth
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics of Plumes and Hotspots
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Garrett Ito / Dr. Jian Lin
+{{< tdclose >}}
+{{< tdopen >}}
+Evolution and Dynamics of the Iceland Hotspot in the North Atlantic
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Peter Kelemen / Dr. Ken Sims
+{{< tdclose >}}
+{{< tdopen >}}
+Mantle Heterogeneity in the North Atlantic
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Bill Menke / Dr. Rob Sohn
+{{< tdclose >}}
+{{< tdopen >}}
+Magmatic Structure of Axial Volcano, Juan de Fuca Ridge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Yang Shen / Dr. Bob Detrick
+{{< tdclose >}}
+{{< tdopen >}}
+Iceland Plume: Blowing in the Wind?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Mike Perfit / Dr. Ken Sims
+{{< tdclose >}}
+{{< tdopen >}}
+Insights into Ridge-Hotspot Interaction on the Juan de Fuca Ridge: Geochemical Investigations of Axial Seamount and Adjacent Rift Zones
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Dennis Geist / Dr. Henry Dick
+{{< tdclose >}}
+{{< tdopen >}}
+Plumes at Plate Boundaries (When Bad Things Happen to Good Plumes)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Katrina Edwards / Dr. Susan Humphris
+{{< tdclose >}}
+{{< tdopen >}}
+Chemolithoautotrophic Extremophiles and Biogeography of Vent Biota
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Jason Phipps-Morgan / Dr. Jack Whitehead
+{{< tdclose >}}
+{{< tdopen >}}
+Origination Depth of Mantle Plumes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip to Yellowstone
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

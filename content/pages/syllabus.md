@@ -26,10 +26,141 @@ Joint Program students enrolled in the Geodynamics seminar are required to compl
 Course Outline
 --------------
 
-| SECTIONs | TOPICS |
-| --- | --- |
-| Background on Tectonics and Mantle Convection |  {{< br >}}{{< br >}} How do plumes and ridges fit into ideas regarding mantle convection? {{< br >}}{{< br >}} What is a plume, how are they distributed around the globe? {{< br >}}{{< br >}} How do the properties of plumes and ridges vary? {{< br >}}{{< br >}} What would be a canonical model for the chronology of a p/r interaction? {{< br >}}{{< br >}} What are the burning, unanswered questions regarding plumes, ridges, and p/r interactions? {{< br >}}{{< br >}} What kinds of data and modeling are needed to answer the important questions? {{< br >}}{{< br >}}  |
-| Case Study 1: Iceland/Northern MAR - Stuck in the Middle? |  {{< br >}}{{< br >}} What is the pattern of mantle flow beneath Iceland? {{< br >}}{{< br >}} How big is the Iceland plume? Where is it? {{< br >}}{{< br >}} How far downrift can the chemical and mechanical influence of the Iceland plume be traced? {{< br >}}{{< br >}} How and where is the plume fragmented and distributed to discrete volcanic systems? {{< br >}}{{< br >}} What is the role of the Iceland plume in the early stages of rifting on the northern MAR? {{< br >}}{{< br >}} What do the V-shaped ridges tell us about the p/r interaction and its influence on parameters such as lithospheric strength and upper mantle flow? {{< br >}}{{< br >}}  |
-| Case Study 2: Galapagos/GSC - Gone but Not Forgotten |  {{< br >}}{{< br >}} How has the interaction between the Galapagos plume and the Galapagos Spreading Center evolved over time? {{< br >}}{{< br >}} How does lava chemistry vary along the GSC and what does this imply regarding the p/r interaction? {{< br >}}{{< br >}} What is the present pattern of mantle flow beneath this system? {{< br >}}{{< br >}} What does the mantle matrix do between the two upwelling features? {{< br >}}{{< br >}} Is there still a melt connection? {{< br >}}{{< br >}} How big is the Galapagos plume? Where is it? {{< br >}}{{< br >}}  |
-| Case Study 3: Cobb/JdFR - The First Days are the Hardest Days |  {{< br >}}{{< br >}} Is the Cobb hotspot a plume? {{< br >}}{{< br >}} How has it behaved in the hot-spot reference frame? {{< br >}}{{< br >}} Does it have a geochemical signature? {{< br >}}{{< br >}} Where is it presently located? {{< br >}}{{< br >}} How deep is it rooted? {{< br >}}{{< br >}} What is the pattern of mantle flow beneath this system? {{< br >}}{{< br >}} When did the JdFR start bending towards the Cobb hotspot? {{< br >}}{{< br >}} How is melt distributed beneath the central JdFR? {{< br >}}{{< br >}} How does lava chemistry vary along the JdFR/Cobb region? {{< br >}}{{< br >}} What patterns of matrix and melt flow are consistent with the observational and theoretical constraints? {{< br >}}{{< br >}} How might long-term observatories, such as NeMO and Neptune contribute to our understanding of the p/r interaction? {{< br >}}{{< br >}}  |
-| Esoterica |  {{< br >}}{{< br >}} How do ridges, plumes, and p/r interactions influence the global biogeography of chemosynthetic systems? {{< br >}}{{< br >}} How do the myriad millions of near-ridge seamounts relate to p/r interactions? {{< br >}}{{< br >}} How fixed is the hot spot reference frame? {{< br >}}{{< br >}} Can large plumes create new plate boundaries? {{< br >}}{{< br >}} How deep is the source region for hotspots? {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SECTIONs
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Background on Tectonics and Mantle Convection
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How do plumes and ridges fit into ideas regarding mantle convection?
+
+What is a plume, how are they distributed around the globe?
+
+How do the properties of plumes and ridges vary?
+
+What would be a canonical model for the chronology of a p/r interaction?
+
+What are the burning, unanswered questions regarding plumes, ridges, and p/r interactions?
+
+What kinds of data and modeling are needed to answer the important questions?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Case Study 1: Iceland/Northern MAR - Stuck in the Middle?
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+What is the pattern of mantle flow beneath Iceland?
+
+How big is the Iceland plume? Where is it?
+
+How far downrift can the chemical and mechanical influence of the Iceland plume be traced?
+
+How and where is the plume fragmented and distributed to discrete volcanic systems?
+
+What is the role of the Iceland plume in the early stages of rifting on the northern MAR?
+
+What do the V-shaped ridges tell us about the p/r interaction and its influence on parameters such as lithospheric strength and upper mantle flow?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Case Study 2: Galapagos/GSC - Gone but Not Forgotten
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How has the interaction between the Galapagos plume and the Galapagos Spreading Center evolved over time?
+
+How does lava chemistry vary along the GSC and what does this imply regarding the p/r interaction?
+
+What is the present pattern of mantle flow beneath this system?
+
+What does the mantle matrix do between the two upwelling features?
+
+Is there still a melt connection?
+
+How big is the Galapagos plume? Where is it?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Case Study 3: Cobb/JdFR - The First Days are the Hardest Days
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Is the Cobb hotspot a plume?
+
+How has it behaved in the hot-spot reference frame?
+
+Does it have a geochemical signature?
+
+Where is it presently located?
+
+How deep is it rooted?
+
+What is the pattern of mantle flow beneath this system?
+
+When did the JdFR start bending towards the Cobb hotspot?
+
+How is melt distributed beneath the central JdFR?
+
+How does lava chemistry vary along the JdFR/Cobb region?
+
+What patterns of matrix and melt flow are consistent with the observational and theoretical constraints?
+
+How might long-term observatories, such as NeMO and Neptune contribute to our understanding of the p/r interaction?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Esoterica
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How do ridges, plumes, and p/r interactions influence the global biogeography of chemosynthetic systems?
+
+How do the myriad millions of near-ridge seamounts relate to p/r interactions?
+
+How fixed is the hot spot reference frame?
+
+Can large plumes create new plate boundaries?
+
+How deep is the source region for hotspots?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
